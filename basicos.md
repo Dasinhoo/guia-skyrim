@@ -1,7 +1,7 @@
 ## Ferramentas para moddar Skyrim
 
-[Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
-[SSEEdit (xEdit)](https://www.nexusmods.com/skyrimspecialedition/mods/164)
+- [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+- [SSEEdit (xEdit)](https://www.nexusmods.com/skyrimspecialedition/mods/164)
 
 
 ## SKSE e Essenciais
