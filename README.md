@@ -1,3 +1,3 @@
 # Guias de Mods para Skyrim Special Edition 
 
-[Lista de Mods Essenciais](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Lista de Mods Basicos](https://github.com/zDasF1xer/guia-skyrim/blob/main/basicos.md)
