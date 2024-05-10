@@ -2,3 +2,5 @@
 - bla bla bla
 - fulano ciclano
 - beltrano
+- foo
+- bar
