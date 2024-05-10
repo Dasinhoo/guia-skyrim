@@ -33,3 +33,4 @@
 - [Dragon Crash Land Markers Fix](https://www.nexusmods.com/skyrimspecialedition/mods/98702)
 - [Calm Down Valdr](https://www.nexusmods.com/skyrimspecialedition/mods/33058)
 - [Mage Armor Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58862)
+- [College Of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
