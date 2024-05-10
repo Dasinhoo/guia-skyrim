@@ -21,7 +21,12 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
 
     - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave. Quanto a terceira e a quarta , elas modificam o quanto demora para passar 1 hora quando o personagem está dormindo ou no menu de espera; Já a quinta modificação , nós desativaremos pois usaremos um mod em especifico só pra essa função
 ### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
-   -
+   - Solução AIO para experiencia fluida com fps destravado , inclui fixes para a fisica , bugs e muito mais
+   - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
+   - Navegue para : `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
+     - LoadScreenFilter=false ➞ LoadScreenFilter=true 
+     - LoadScreenBlock=All ➞ LoadScreenBlock=DynDOLOD.esm
+     - O motivo de fazermos isso é para remover uma loading screen troll que um autor de um mod que usaremos no futuro colocou nele
 ### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
   - Coleção de bugfixes e tweaks
   - Recomendo ler a pagina do mod se quiser saber o que cada um deles faz 
