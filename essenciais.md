@@ -24,6 +24,8 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
    - Solução AIO para experiencia fluida com fps destravado , inclui fixes para a fisica , bugs e muito mais
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
    - Navegue para : `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
+
+
      - `LoadScreenFilter=false` ➞ `LoadScreenFilter=true` 
      - `LoadScreenBlock=All` ➞ `LoadScreenBlock=DynDOLOD.esm`
      - O motivo de fazermos isso é para remover uma loading screen troll que um autor de um mod que usaremos no futuro colocou nele
@@ -35,8 +37,10 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
     - Abra o jogo uma vez após instala-lo , espere o menu aparecer e feche-o 
     - Abra a pasta `overwrite` no MO2
     - Navegue para : `SKSE/Plugins/PapyrusTweaks.ini` e edite :
-    - `Max Operations Per Task = 500` ➞ `Max Operations Per Task = 2000`
-    - O motivo de fazermos isso é porque a engine papyrus foi feita para rodar num computador que era considerado medíocre em 2011, sendo assim o papyrus era limitado a fazer 100 operações por tarefa. Em máquinas mais novas esse valor pode ser alterado para um numero muito mais alto sem nenhum impacto notável no FPS e ainda pode potencialmente aumentar a performance 
+
+
+      - `Max Operations Per Task = 500` ➞ `Max Operations Per Task = 2000`
+      - O motivo de fazermos isso é porque a engine papyrus foi feita para rodar num computador que era considerado medíocre em 2011, sendo assim o papyrus era limitado a fazer 100 operações por tarefa. Em máquinas mais novas esse valor pode ser alterado para um numero muito mais alto sem nenhum impacto notável no FPS e ainda pode potencialmente aumentar a performance 
 ### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
   - Coleção de bugfixes e patches para a engine
   - Recomendo ler a pagina do mod se quiser habilitar algum patch manualmente
