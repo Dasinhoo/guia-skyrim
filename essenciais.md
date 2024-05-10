@@ -24,8 +24,8 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
    - Solução AIO para experiencia fluida com fps destravado , inclui fixes para a fisica , bugs e muito mais
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
    - Navegue para : `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
-     - LoadScreenFilter=false ➞ LoadScreenFilter=true 
-     - LoadScreenBlock=All ➞ LoadScreenBlock=DynDOLOD.esm
+     - `LoadScreenFilter=false` ➞ `LoadScreenFilter=true` 
+     - `LoadScreenBlock=All` ➞ `LoadScreenBlock=DynDOLOD.esm`
      - O motivo de fazermos isso é para remover uma loading screen troll que um autor de um mod que usaremos no futuro colocou nele
 ### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
   - Coleção de bugfixes e tweaks
