@@ -9,7 +9,10 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
   - Abra a pasta do mod seguindo o caminho : `Data/SKSE/Plugins` e abra o arquivo `EngineFixes.toml` com um leitor de textos e edite as seguintes linhas:
     - `MaxStdio=2048` ➞ `MaxStdio=4096`
     - `RegularQuicksaves=false` ➞ `RegularQuicksaves=true`
-    - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave.
+    - `SleepWaitTime = false` ➞ `SleepWaitTime = true`
+    - `AnimationLoadSignedCrash = true` ➞ `AnimationLoadSignedCrash = false`
+
+    - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave. Quanto a terceira , ela modifica o quão rapido é um tempo de espera para passar uma hora dormindo ou no menu de espera; Já a quarta modificação , desativaremos pois recomendamos outro mod em especifico para essa função
 
 - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
