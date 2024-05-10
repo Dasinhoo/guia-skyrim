@@ -1,6 +1,8 @@
 ## Ferramentas para moddar Skyrim
 
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+ - [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813)
+ - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236)
 - [SSEEdit (xEdit)](https://www.nexusmods.com/skyrimspecialedition/mods/164)
 
 
