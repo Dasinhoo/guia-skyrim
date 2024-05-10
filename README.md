@@ -4,3 +4,5 @@
 2. [Mods Essenciais](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md)
 3. [Bug Fixes](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md)
 4. [Frameworks](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
+5. [Qualidade de Vida (QoL)](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
+6. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
