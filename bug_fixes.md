@@ -75,3 +75,17 @@
 - Corrige crashs e lags de script ao usar a Mage Armor.
 ## [College Of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
 - Corrige bugs onde algumas quests do Colégio de Winterhold, não iniciam.
+## [Stagger Effect Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110508)
+- Corrige um erro de Engine relacionado ao mecanismo de efeitos mágicos, se estes desencadearem um efeito de cambaleio no alvo, o alvo cambaleia na direção errada em relação a quem conjurou o feitiço.
+## Animals Swim (Sort of)[https://www.nexusmods.com/skyrimspecialedition/mods/78267]
+- Os coelhos (e outros animais) não andarão mais no fundo do mar; em vez disso, flutuarão perto da superfície.
+## [Assorted Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/93271)
+- Arruma pequenos problemas das animações vanilla.
+## [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+- Corrigido o erro de mecanismo onde os encantamentos de itens não se aplicam quando equipados ou param de funcionar enquanto o item ainda está equipado.
+## [Instantly Skip Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/89163)
+- Permite o player pular o diálogo instantaneamente, ignorando o delay de 750 milissegundos, também inclui diálogos que não podem ser pulados normalmente, como os de Hermaeus Mora e Augur De Dunlain.
+## [Sound Fix for Large Sector Drives](https://www.nexusmods.com/skyrimspecialedition/mods/71567)
+- O mecanismo do Skyrim tem um bug que faz com que o áudio não seja reproduzido na maioria das vezes quando o jogo é instalado em uma unidade com tamanho de setor diferente de 512
+## [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309)
+- Este mod torna possível alternar entre o gamepad e o controle do teclado/mouse em tempo real.
