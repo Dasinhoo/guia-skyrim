@@ -10,10 +10,10 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
     - `MaxStdio=2048` ➞ `MaxStdio=4096`
     - `RegularQuicksaves=false` ➞ `RegularQuicksaves=true`
     - `SleepWaitTime = false` ➞ `SleepWaitTime = true`
+    - `SleepWaitTimeModifier = 0.3` ➞ `SleepWaitTimeModifier = 0.25`
     - `AnimationLoadSignedCrash = true` ➞ `AnimationLoadSignedCrash = false`
 
-    - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave. Quanto a terceira , ela modifica o quão rapido é um tempo de espera para passar uma hora dormindo ou no menu de espera; Já a quarta modificação , desativaremos pois recomendamos outro mod em especifico para essa função
-
+    - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave. Quanto a terceira e a quarta , elas modificam o quanto demora para passar 1 hora quando o personagem está dormindo ou no menu de espera; Já a quinta modificação , nós desativaremos pois usaremos um mod em especifico só pra essa função
 - [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
 - [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
