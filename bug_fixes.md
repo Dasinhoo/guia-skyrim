@@ -16,7 +16,7 @@
 ## [Skyrim Landscape and Water Fixes (SLAWF)](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
 - Ele arruma gliches na landscape, remove muitos objetos duplicados(aumentando o FPS, consequentemente).
 - Recomendo instalar o Landscape Fixes for Grass Mods **ANTES**.
-- Selecione os patchs pros mods que você tem no FOMOD(instalador) dele, caso use o Creation Club, selecione tudo onde tem escrito "CC".
+- Selecione os patchs pros mods que você tem no FOMOD(instalador) dele e caso use o Creation Club, selecione tudo onde tem escrito "CC".
 ## [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
 - Ele permite um maior número de atores(em resumo, NPCs) poder se mover e fazer expressões faciais a qualquer momento.
 ## [Allow Dialogue Progress Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67433)
