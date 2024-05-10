@@ -1,4 +1,5 @@
-## Ferramentas para moddar Skyrim
+## Ferramentas
+_Para interagir de forma eficiente com o jogo e os mods_
 
 ### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
  - [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/69813)
