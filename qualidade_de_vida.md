@@ -1,3 +1,6 @@
+## Qualidade de Vida
+_Para deixar a gameplay um pouco menos detestável_
+
 ### [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166)
 - Faz com que você tenha que segurar o botão de sprint para correr.
 ### [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
@@ -15,3 +18,5 @@
 - Sem grama atravessando os objetos! (LOD de grama também).
 ### [Pick Up Radius](https://www.nexusmods.com/skyrimspecialedition/mods/69750)
 - Coleta todos os itens similares deixados no chão de uma só vez.
+### [Instantly Skip Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/89163)
+- Permite o player pular o diálogo instantaneamente, ignorando o delay de 750 milissegundos, também inclui diálogos que não podem ser pulados normalmente, como os de Hermaeus Mora e Augur De Dunlain.
