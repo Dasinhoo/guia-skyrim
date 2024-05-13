@@ -9,4 +9,5 @@ _Downgrade da versão **1.6.1130** para **1.5.97**, mantendo TODO o conteudo do 
 - Quando terminar o download dos 2, procure os arquivos na sua pasta Steam (Normalmente em "C:\Program Files (x86)\Steam\steamapps\content"). Dentro de Content vc encontrará uma pasta chamada `app_489830`. Dentro dessa pasta haverá outras 2 pastas (`depot_489832` e `depot_489833`).
 - Na pasta `depot_489832` copie para a pasta raiz do seu Skyrim `SOMENTE` os arquivos `bink2w64.dll` e `steam_api64.dll`.
 - Na pasta `depot_489833` copie o executável do jogo para a pasta raiz do seu Skyrim.
+- Baixe o [B.E.E.S](https://www.nexusmods.com/skyrimspecialedition/mods/106441?tab=files) e instale normalmente no seu Mod Organizer
 - Você fez o Downgrade para 1.5.97
