@@ -9,7 +9,7 @@
 
 ## Índice
 ### 1. [Downgrade](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md)
-- Passo a Passo para fazer o Full Downgrade do Skyrim *1.6.1130* para a versão **1.6.640** e, se desejar, em seguida o downgrade para 1.5.97 podendo utilizar **TODO** o conteudo do Creation Club da 1.6.640 enquanto tem suporte para praticamente todos os mods.
+- Passo a Passo para fazer o Downgrade Best of Both Worlds do Skyrim *1.6.1130* para a versão **1.5.97**, podendo utilizar **TODO** o conteudo do Creation Club da 1.6.640 enquanto tem suporte para praticamente todos os mods.
 ### 2. [Ferramentas](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md)
 - Terá tudo o que você precisa para ***começar*** a moddar o Skyrim SE/AE.
 - **Indispensável** para qualquer modlist - por menor que seja.
