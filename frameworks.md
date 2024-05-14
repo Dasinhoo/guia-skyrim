@@ -17,6 +17,8 @@ _Para que os outros mods funcionem corretamente_
 ### [Base Object Swapper (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 - Este mod permite Modders trocarem objetos de lugar.
 - Diminui e MUITO o número de patchs que certos mods precisam, pois assim, os Modders não precisam mexer nos plugins ou criar scripts(Vulgo Destructible Skyrim - Breakable Objects (Beta)).
+### [AnimObject Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/75167)
+- Este mod faz o mesmo que o BOS, porém, com objetos que tem animação.
 ### [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - É a maior benção que foi lançada recentemente, com ele, você consegue editar quase tudo, sem mexer em plugins, apenas usando arquivos .ini.
 - Ele é quase a junção do SPID, KID e CID, mas claro, eles funcionam de formas diferentes, então se um mod dizer "SPIDified" ou simplesmente "SPID" para armaduras, armas, você ainda vai precisar do SPID.   
