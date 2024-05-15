@@ -4,7 +4,7 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 ### [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)
 - Como o nome diz, ele vai melhorar o sistema vanilla de Vampiros, rebalanceando as magias e adicionando novas.
 - Existe a opção de usar também o Sacrosanct, ele faz mais coisa que o Scion, porém, precisa de um pouco mais de patch, o que pode **talvez** causar futura dor de cabeça em iniciantes.
-- **Não considere o Better Vampires uma opção, é um mod feito de uma forma um pouco velha e antiquada, tem _MUITOS_ bugs, além de precisar de bem mais patchs que os citados.**
+- **Não considere o Better Vampires uma opção, é um mod feito de uma forma um pouco velha e antiquada, tem _MUITOS_ bugs, além de precisar de bem mais patches que os citados.**
 
 ### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
 - Esse mod vai rebalancear as Standing Stones, que se você não sabe, são as pedras que a gente encontra no caminho pra Riverwood que dá um buff no XP ganho na classe que escolhermos.
@@ -42,6 +42,7 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 ### [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
 - Esse mod vai adicionar várias missões em um "board" (não sei se tem uma tradução boa pro português que se encaixa no contexto).
 - _Recomendo também instalar o: [Missives - Notes Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46201)_
+- _Recomendo também instalar o: [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
 
 ### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)
 - Esse mod vai rebalancear o comércio de Skyrim, adicionando novas "variáveis" que vão influenciar os preços dos itens.
