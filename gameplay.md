@@ -31,8 +31,6 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 - Esse mod vai adicionar várias coisas ao sistema de Inns(Pousadas) do jogo.
 - Bom, se você vai usar um mod que mexe no sistema de Inns do jogo, sinto-lhe informar que esta é sua única opção na Nexus.
 
-# E não sei se você reparou, mas todos os mods citados aqui, são do mesmo autor, então, vamos mudar.
-
 ### [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
 - O melhor mod de cavalo da nexus de longe, com ele, você pode acessar o inventário do cavalo, fazer ele esperar por você(igual um follower), renomear ele, teleportá-lo para perto de você, e outras coisas.
 - _**RECOMENDO FORTEMENTE**_ que use ele no lugar do Convenient Horses, que é um mod muito bugado e com scripts ruins
