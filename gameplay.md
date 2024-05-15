@@ -20,7 +20,7 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 - Imagino que você esteja usando, mas se não está, recomendo.
 - Esse mod como o nome diz, vai reformular as perks do jogo, alterando umas, adicionando outras, e removendo algumas.
-- **muita** gente usa o Ordinator, e embora não seja um mod ruim, eu prefiro o Adamant por ser mais simples, o Ordinator tem perk pra caralho, você nunca vai usar a maioria, além de ser um pouco quebrado.
+- _**MUITA**_ gente usa o Ordinator, eu prefiro o Adamant por ser mais simples, o Ordinator tem muita perk, você nunca vai usar a maioria, além de ser quebrado.
 - Outro motivo, o Mysticism, que é um dos melhores mods de pack de magia da atualidade, foi feito pensando nele e vice-versa.
 
 ### [Stormcrown - Shout Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
@@ -33,4 +33,28 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 
 ### E não sei se você reparou, mas todos os mods citados aqui, são do mesmo autor, então, vamos mudar.
 
+### [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
+- O melhor mod de cavalo da nexus de longe, com ele, você pode acessar o inventário do cavalo, fazer ele esperar por você(igual um follower), renomear ele, teleportá-lo para perto de você, e outras coisas.
+- _**RECOMENDO FORTEMENTE**_ que use ele no lugar do Convenient Horses, que é um mod muito bugado e com scripts ruins
+- Não troque de mod de cavalo em mid-save, sempre crie outro.
 
+### [LockBashNG](https://www.nexusmods.com/skyrimspecialedition/mods/97899)
+- Esse mod vai adicionar uma mecânica para quebrar fechaduras de baús, por exemplo.
+
+### [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
+- Esse mod vai adicionar várias missões em um "board" (não sei se tem uma tradução boa pro português que se encaixa no contexto).
+- _Recomendo também instalar o: [Missives - Notes Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46201)_
+
+### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)
+- Esse mod vai rebalancear o comércio de Skyrim, adicionando novas "variáveis" que vão influenciar os preços dos itens.
+- _Use também o [Trade and Barter - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23220) caso precise de patchs para outros mods_
+
+### [Wade in Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418)
+- Esse mod vai fazer o seu personagem andar de forma lenta na água, semelhante à vida real.
+
+### [Dynamic Things Alternative - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60741)
+- Um mod que vai permitir interação com itens que normalmente não tem.
+- Totalmente feito pelo BOS, ou seja, não mexe em nenhum record do jogo vanilla, o que deixa livre de patches.
+
+### [More Carriages - Fast Travel Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/71135)
+- Esse mod vai adicionar carruagens para as cidades menores de Skyrim.
