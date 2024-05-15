@@ -13,9 +13,9 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 ### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
 - Vai rebalancear as raças do jogo no geral.
 - Existe a opção de usar o Imperious, porém ele tem 3 defeitos.
-**1** - É feito pelo Enai
-**2** - Não é atualizado faz quase 3 anos
-**3** - O Aetherius, que é o que estou recomendando, já é pensado pra praticamente todos mods de overhaul que mostrarei(e mostrei) aqui, o Imperious não.
+- É feito pelo Enai.
+- Não é atualizado faz quase 3 anos.
+- O Aetherius, que é o que estou recomendando, já é pensado pra praticamente todos mods de overhaul que mostrarei(e mostrei) aqui, o Imperious não.
 
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 - Imagino que você esteja usando, mas se não está, recomendo.
