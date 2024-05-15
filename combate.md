@@ -1,6 +1,6 @@
 # Combate
-_Mods que deixam o combate alinhado com jogos modernos. O MCO Stanced para PLayer com todos seus Add-ons e o Combat pack foram criados pelo Mathieu, todos os créditos a ele._
-_Algumas partes desse guia foram reaproveitadas do próprio guia do Mathieu_.
+- _Mods que deixam o combate alinhado com jogos modernos. O MCO Stanced para Player com todos seus Add-ons e o Combat pack foram criados pelo Mathieu, todos os créditos a ele._
+- _Algumas partes desse guia foram reaproveitadas do próprio guia do Mathieu_.
 
 ## MCO STANCED COMBAT PACK
 
