@@ -26,5 +26,3 @@
 - Também corrigem coisas que o Skyrim traz que só deixam a gente indignado.
 ### 7. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
 - Mods que vão melhorar a interface do seu jogo.
-### 8. [Combate](https://github.com/Dasinhoo/guia-skyrim/blob/main/combate.md)
-- Mods que alteram completamente o combate do jogo, incluindo as animações de NPCs.
