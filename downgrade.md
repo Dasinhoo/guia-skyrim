@@ -14,4 +14,4 @@ _Downgrade da versão ***1.6.1170*** para ***1.5.97***, mantendo todo o conteúd
 - Da pasta `depot_489833`, copie o executável do jogo para a pasta raiz do seu Skyrim.
 - Parabéns! Com isso, você fez o Downgrade para a 1.5.97.
 
-Nota importante: caso tente abrir seu jogo agora, ele crashará. Você precisa do Backported Extended ESL Support, que terá sua instalação coberta na seção de Mods Essenciais do guia.
+Nota importante: caso tente abrir seu jogo agora, ele crashará. Você precisa do [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441).
