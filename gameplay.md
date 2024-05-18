@@ -42,7 +42,7 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 ### [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
 - Esse mod vai adicionar várias missões em um mural, semelhante ao TW3 e Genshin Impact que também tem esse sistema.
 - _Recomendo também instalar o: [Missives - Notes Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46201)_
-- _Recomendo também instalar o: [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- _Recomendo também instalar o: [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788)_
 
 ### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)
 - Esse mod vai rebalancear o comércio de Skyrim, adicionando novas "variáveis" que vão influenciar os preços dos itens.
