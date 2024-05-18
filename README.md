@@ -26,3 +26,6 @@
 - Também corrigem coisas que o Skyrim traz que só deixam a gente indignado.
 ### 7. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
 - Mods que vão melhorar a interface do seu jogo.
+### 8. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/gameplay.md)
+- Mods que vão melhorar a gameplay do seu jogo.
+- Observe que esses são na _**Minha**_ opinião, a base principal dos mods de gameplay, o jogo só com eles já fica bem melhor e divertido, porém tem outros legais.
