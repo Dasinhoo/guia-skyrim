@@ -15,7 +15,7 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 - Existe a opção de usar o Imperious, porém ele tem 3 defeitos.
 - É feito pelo Enai.
 - Não é atualizado faz quase 3 anos.
-- O Aetherius, que é o que estou recomendando, já é pensado pra praticamente todos mods de overhaul que mostrarei(e mostrei) aqui, o Imperious não.
+- O Aetherius, que é o que estou recomendando, já é pensado pra praticamente todos mods de overhaul que mostrarei (e mostrei) aqui, o Imperious não.
 
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 - Imagino que você esteja usando, mas se não está, recomendo.
@@ -40,13 +40,13 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 - Esse mod vai adicionar uma mecânica para quebrar fechaduras de baús, por exemplo.
 
 ### [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
-- Esse mod vai adicionar várias missões em um "board" (não sei se tem uma tradução boa pro português que se encaixa no contexto).
+- Esse mod vai adicionar várias missões em um mural, semelhante ao TW3 e Genshin Impact que também tem esse sistema.
 - _Recomendo também instalar o: [Missives - Notes Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46201)_
 - _Recomendo também instalar o: [Missives - Worldspace Additions](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
 
 ### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)
 - Esse mod vai rebalancear o comércio de Skyrim, adicionando novas "variáveis" que vão influenciar os preços dos itens.
-- _Use também o [Trade and Barter - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23220) caso precise de patchs para outros mods_
+- _Use também o [Trade and Barter - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/23220) caso precise de patches para outros mods_
 
 ### [Wade in Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418)
 - Esse mod vai fazer o seu personagem andar de forma lenta na água, semelhante à vida real.
@@ -57,3 +57,6 @@ _Um guia que vai melhorar a Gameplay do Skyrim_
 
 ### [More Carriages - Fast Travel Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/71135)
 - Esse mod vai adicionar carruagens para as cidades menores de Skyrim.
+
+### [Taunt Your Enemies - Tauting Matters](https://www.nexusmods.com/skyrimspecialedition/mods/72023)
+- Esse mod vai permitir você provocar os NPCs e vice-versa.
