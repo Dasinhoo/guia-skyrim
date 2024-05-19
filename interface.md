@@ -8,14 +8,10 @@ _Para melhorar os menus horrendos do jogo vanilla_
   - [Fix Note Icon for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
   - [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
   - [SkyUI 3D Item Offset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/92602)
-### [ESO Cursor](https://www.nexusmods.com/skyrimspecialedition/mods/39670)
-- Só porque eu gosto mesmo.
-### [HD Local Map](https://www.nexusmods.com/skyrimspecialedition/mods/74722)
-### [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
-### [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
-### [Infinity UI](https://www.nexusmods.com/skyrimspecialedition/mods/74483)
-### [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484)
-### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+ 
+### [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
+- Se estiver na 1.5.97, instale o [Memory Leak Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70161)
+
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
-- Também instale:
-  - [Curated Bosses for TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/53406)
+
+### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
