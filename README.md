@@ -9,7 +9,7 @@
 
 ## Índice
 ### 1. [Downgrade](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md)
-- Passo a Passo para fazer o Downgrade Best of Both Worlds do Skyrim *1.6.1130* para a versão **1.5.97**, podendo utilizar **TODO** o conteudo do Creation Club da 1.6.1130 enquanto tem suporte para praticamente todos os mods.
+- Passo a passo para fazer o downgrade Best of Both Worlds do Skyrim ***1.6.1170*** para a versão ***1.5.97***, podendo utilizar ***todo*** o conteúdo do Creation Club da 1.6.1170, enquanto mantém suporte para praticamente todos os mods.
 ### 2. [Ferramentas](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md)
 - Terá tudo o que você precisa para ***começar*** a moddar o Skyrim SE/AE.
 - **Indispensável** para qualquer modlist - por menor que seja.
@@ -26,3 +26,6 @@
 - Também corrigem coisas que o Skyrim traz que só deixam a gente indignado.
 ### 7. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
 - Mods que vão melhorar a interface do seu jogo.
+### 8. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/gameplay.md)
+- Mods que vão melhorar a gameplay do seu jogo, melhorando o sistema de raças, vampiros, pousadas, adicionando mais carruagens, etc.
+- Observe que esses são na _**minha**_ opinião, a base principal dos mods de gameplay, o jogo só com eles já fica bem melhor e divertido.
