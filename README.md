@@ -22,8 +22,6 @@
 - São mods que uma hora você vai usar, pois são requisitos de outros mods que você com certeza baixará mais a frente.
 ### 6. [Qualidade de Vida (QoL)](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
 - Mods que vão melhorar e muito sua gameplay, deixando o Skyrim com uma jogabilidade melhor.
-- Adicionam coisas que já deveriam ter no vanilla e retiram outras que só atrapalham ou que não fazem sentido.
-- Também corrigem coisas que o Skyrim traz que só deixam a gente indignado.
 ### 7. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
 - Mods que vão melhorar a interface do seu jogo.
 ### 8. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/gameplay.md)
