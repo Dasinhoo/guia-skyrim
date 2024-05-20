@@ -86,9 +86,6 @@ _Provavelmente a seção mais longa do guia_
 - Corrigido o erro de mecanismo onde os encantamentos de itens não se aplicam quando equipados ou param de funcionar enquanto o item ainda está equipado.
 ### [Sound Fix for Large Sector Drives](https://www.nexusmods.com/skyrimspecialedition/mods/71567)
 - O mecanismo do Skyrim tem um bug que faz com que o áudio não seja reproduzido na maioria das vezes quando o jogo é instalado em uma unidade com tamanho de setor diferente de 512
-### [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
-- Se você viu a parte de Mods Essenciais antes dessa(se não viu, vá ver agora), viu que desativamos o AnimationLoadSignedCrash pra algum mod em específico, certo?
-- O que esse mod vai fazer, é corrigir um crash quando você tem muitas animações no FNIS e no Nemesis, e **provavelmente** será assim também no Pandora.
 
 
 [Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
