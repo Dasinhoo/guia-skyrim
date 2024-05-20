@@ -17,9 +17,7 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
     - `RegularQuicksaves=false` ➞ `RegularQuicksaves=true`
     - `SleepWaitTime = false` ➞ `SleepWaitTime = true`
     - `SleepWaitTimeModifier = 0.3` ➞ `SleepWaitTimeModifier = 0.25`
-    - `AnimationLoadSignedCrash = true` ➞ `AnimationLoadSignedCrash = false`
-
-    - A primeira mudança resolve um bug do save onde ele corrompia falsamente; já a segunda faz com que ao apertar F5, seu jogo crie um save normal ao invés de um quicksave. Quanto a terceira e a quarta, elas modificam o quanto demora para passar 1 hora quando o personagem está dormindo ou no menu de espera; Já a quinta modificação, nós desativaremos pois usaremos um mod em específico só pra essa função.
+    
 ### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
    - Solução AIO para experiência fluída com FPS destravado, inclui fixes para a física, bugs e muito mais
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
@@ -48,3 +46,6 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
   - Baixe também os 2 arquivos opcionais.
 ### [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - Uma coleção de bugfixes para a engine.
+
+
+[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md)
