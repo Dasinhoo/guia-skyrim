@@ -7,7 +7,7 @@
 - Este guia foca ***principalmente*** nas versões 1.5.97 e 1.6.640, embora a maior parte também seja aplicável nas outras versões.
 - Por ser um guia no GitHub, ela pode ser considerada algo bleeding edge, ou seja, ela estará em constante desenvolvimento
 
-## Índice
+## Índice - Base
 ### 1. [Downgrade](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md)
 - Passo a passo para fazer o downgrade Best of Both Worlds do Skyrim ***1.6.1170*** para a versão ***1.5.97***, podendo utilizar ***todo*** o conteúdo do Creation Club da 1.6.1170, enquanto mantém suporte para praticamente todos os mods.
 ### 2. [Ferramentas](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md)
@@ -15,15 +15,15 @@
 - **Indispensável** para qualquer modlist - por menor que seja.
 ### 3. [Mods Essenciais](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md)
 - Mods para criar uma fundação sólida, sobre a qual qualquer quantia de mods pode ser adicionada.
-- **Recomendo** aderir a ela logo após a parte de ferramentas.
 ### 4. [Bug Fixes](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md)
-- Mods que consertam bugs **rídiculos** que o Skyrim vanilla tem. Não chegam a ser mods essenciais, porém eu recomendo pelo menos a maior parte desses bug fixes.
+- Mods que consertam bugs **rídiculos** que o Skyrim vanilla tem.
 ### 5. [Frameworks](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
-- São mods que uma hora você vai usar, pois são requisitos de outros mods que você com certeza baixará mais a frente.
+- Mods que servem de estrutura para o funcionamento correto de outros mods.
 ### 6. [Qualidade de Vida (QoL)](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
-- Mods que vão melhorar e muito sua gameplay, deixando o Skyrim com uma jogabilidade melhor.
+- Mods que alteram pequenas coisas no jogo, porém de grande importância para a fluidez da jogatina.
 ### 7. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
 - Mods que vão melhorar a interface do seu jogo.
-### 8. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/gameplay.md)
+
+## Índice - Extras
+### 1. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/opcional/gameplay.md)
 - Mods que vão melhorar a gameplay do seu jogo, melhorando o sistema de raças, vampiros, pousadas, adicionando mais carruagens, etc.
-- Observe que esses são na _**minha**_ opinião, a base principal dos mods de gameplay, o jogo só com eles já fica bem melhor e divertido.
