@@ -34,3 +34,6 @@ _Para que os outros mods funcionem corretamente_
 - Basicamente, complementa a linguagem Papyrus com conceitos de linguagens de programação conhecidas (C++, por exemplo).
 - Ela adiciona Arrays (um tipo de estrutura de dados), que programadores em C-Family vão conhecer de cara.
 - Ela adiciona maps, programadores em C-Family e Python sabem bem o que é.
+
+
+[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
