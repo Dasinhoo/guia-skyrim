@@ -15,5 +15,7 @@ _Downgrade da versão ***1.6.1170*** para ***1.5.97***, mantendo todo o conteúd
 - Parabéns! Com isso, você fez o Downgrade para a 1.5.97.
 
 Nota importante: caso tente abrir seu jogo agora, ele crashará. Você precisa do [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441).
+- Se você estiver seguindo o guia (no caso, não lhe foi mandado essa página de maneira avulsa), a instalação do BEES ocorrerá mais a frente.
+
 
 [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md)
