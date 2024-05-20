@@ -9,3 +9,6 @@ _Para interagir de forma eficiente com o jogo e os mods_
  - [SSE Decompress Records](https://www.nexusmods.com/skyrimspecialedition/mods/86312)
 ### [LOOT (Load Order Optimisation Tool)](https://www.nexusmods.com/site/mods/439)
 ### [Bethini Pie](https://www.nexusmods.com/site/mods/631) 
+
+
+[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md)
