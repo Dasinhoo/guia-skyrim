@@ -89,3 +89,6 @@ _Provavelmente a seção mais longa do guia_
 ### [Animation Limit Crash Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/31146)
 - Se você viu a parte de Mods Essenciais antes dessa(se não viu, vá ver agora), viu que desativamos o AnimationLoadSignedCrash pra algum mod em específico, certo?
 - O que esse mod vai fazer, é corrigir um crash quando você tem muitas animações no FNIS e no Nemesis, e **provavelmente** será assim também no Pandora.
+
+
+[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
