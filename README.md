@@ -1,6 +1,6 @@
 ## Onde o guia começa?
 
-### [Aqui](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md).
+### [Aqui](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md).
 
 ## Notas
 
