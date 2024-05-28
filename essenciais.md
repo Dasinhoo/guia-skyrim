@@ -4,11 +4,7 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
 
 ### [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
 ### [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
-  - 9 de 10 mods pedem ele para funcionar 
-  - Indispensável para qualquer modlist
 ### [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
-  - Aumenta a quantidade de records que um .ESL pode ter
-  - Indispensável para versões abaixo da .1130
 ### [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - Instale a parte 1 correspondente a sua versão usando o `MO2`
   - Baixe a parte 2 manualmente, extraia e mova os arquivos para dentro da pasta root do jogo(onde SkyrimSE.exe está) 
@@ -23,29 +19,20 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
    - Navegue para: `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
 
-
      - `LoadScreenFilter=false` ➞ `LoadScreenFilter=true` 
      - `LoadScreenBlock=All` ➞ `LoadScreenBlock=DynDOLOD.esm`
-     - O motivo de fazermos isso é para remover uma loading screen troll que um autor de um mod que usaremos no futuro colocou nele
 ### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
-  - Coleção de bugfixes e tweaks.
-  - Recomendo ler a página do mod se quiser saber o que cada um deles faz.
 ### [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
-  - Coleção de Fixes, tweaks e melhorias de performance para a engine de scripts do skyrim.
-    - Abra o jogo uma vez após instalá-lo , espere o menu aparecer e feche-o.
-    - Abra a pasta `overwrite` no MO2.
-    - Navegue para: `SKSE/Plugins/PapyrusTweaks.ini` e edite:
-
-
-      - `Max Operations Per Task = 500` ➞ `Max Operations Per Task = 2000`
-      - O motivo de fazermos isso é porque a engine papyrus foi feita para rodar num computador que era considerado medíocre em 2011, sendo assim o papyrus era limitado a fazer 100 operações por tarefa. Em máquinas mais novas esse valor pode ser alterado para um numero muito mais alto sem nenhum impacto notável no FPS e ainda pode potencialmente aumentar a performance 
+    
+   - Abra o jogo uma vez após instalá-lo, espere o menu aparecer e feche-o.
+   - Abra a pasta `overwrite` no MO2.
+   - Navegue para: `SKSE/Plugins/PapyrusTweaks.ini` e edite:
+     - `Max Operations Per Task = 500` ➞ `Max Operations Per Task = 2000`
 ### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
-  - Coleção de bugfixes e patches para a engine.
-  - Recomendo ler a pagina do mod se quiser habilitar algum patch manualmente.
   - Baixe o arquivo principal correspondente a versão do seu jogo.
-  - Baixe também os 2 arquivos opcionais.
+  - Baixe também o `Script Effect Archetype Crash Fix` e o `Vendor Respawn Fix`.
 ### [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
   - Uma coleção de bugfixes para a engine.
 
 
-[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md)
+[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
