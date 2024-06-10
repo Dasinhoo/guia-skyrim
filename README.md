@@ -1,6 +1,6 @@
 ## Onde o guia começa?
 
-### [Aqui](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md).
+### [Aqui](downgrade.md).
 
 ## Notas
 
@@ -10,20 +10,20 @@
   - Caso você não possua esse conhecimento, recomendo adquiri-lo antes de começar a guia (o canal do Xarope é um ótimo lugar para começar).
 
 ## Índice - Base
-#### 1. [Downgrade](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md)
+#### 1. [Downgrade](downgrade.md)
 - Passo a passo para fazer o downgrade do Skyrim ***1.6.1170*** para a versão ***1.5.97***, mantendo o conteúdo do Creation Club (vulgo Anniversary Edition) e o suporte com a versão mais recente (principalmente) do USSEP.
-#### 2. [Mods Essenciais](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md)
+#### 2. [Mods Essenciais](essenciais.md)
 - Mods para criar uma fundação sólida, sobre a qual qualquer quantia de mods pode ser adicionada.
-#### 3. [Extensões](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
+#### 3. [Extensões](frameworks.md)
 - Mods que servem de estrutura para o funcionamento correto de outros mods.
-#### 4. [Bug Fixes](https://github.com/Dasinhoo/guia-skyrim/blob/main/bug_fixes.md)
+#### 4. [Bug Fixes](bug_fixes.md)
 - Mods que consertam bugs do jogo vanilla.
-#### 5. [Qualidade de Vida (QoL)](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
+#### 5. [Qualidade de Vida (QoL)](qualidade_de_vida.md)
 - Mods que alteram pequenas coisas no jogo, porém de grande importância para a fluidez da jogatina.
-#### 6. [Interface](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
+#### 6. [Interface](interface.md)
 - Mods que vão melhorar a interface do seu jogo.
 #### 7. Finalização
 - Passos finais e onde continuar.
 ## Índice - Extras
-#### 1. [Gameplay](https://github.com/Dasinhoo/guia-skyrim/blob/main/opcional/gameplay.md)
+#### 1. [Gameplay](opcional/gameplay.md)
 - Mods que vão melhorar a gameplay do seu jogo, melhorando o sistema de raças, vampiros, pousadas, adicionando mais carruagens, etc.
