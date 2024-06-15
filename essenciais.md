@@ -35,4 +35,4 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
   - Uma coleção de bugfixes para a engine.
 
 
-[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/downgrade.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
+[Página Anterior](downgrade.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
