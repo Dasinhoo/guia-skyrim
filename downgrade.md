@@ -18,4 +18,4 @@ Nota importante: caso tente abrir seu jogo agora, ele crashará. Você precisa d
 - Se você estiver seguindo o guia (no caso, não lhe foi mandada esta página de maneira avulsa), a instalação do BEES ocorrerá mais a frente.
 
 
-[Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/ferramentas.md)
+[Próxima Página](essenciais.md)
