@@ -88,4 +88,4 @@ _Provavelmente a seção mais longa do guia_
 - O mecanismo do Skyrim tem um bug que faz com que o áudio não seja reproduzido na maioria das vezes quando o jogo é instalado em uma unidade com tamanho de setor diferente de 512
 
 
-[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/essenciais.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md)
+[Página Anterior](frameworks.md) | [Próxima Página](qualidade_de_vida.md)
