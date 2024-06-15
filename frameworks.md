@@ -36,4 +36,4 @@ _Para que os outros mods funcionem corretamente_
 - Ela adiciona maps, programadores em C-Family e Python sabem bem o que é.
 
 
-[Página Anterior](essenciais.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
+[Página Anterior](essenciais.md) | [Próxima Página](bug_fixes.md)
