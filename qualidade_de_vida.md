@@ -21,4 +21,4 @@ _Para deixar a gameplay um pouco menos detestável_
 ### [Instantly Skip Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/89163)
 - Permite o player pular o diálogo instantaneamente, ignorando o delay de 750 milissegundos, também inclui diálogos que não podem ser pulados normalmente, como os de Hermaeus Mora e Augur De Dunlain.
 
-[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/frameworks.md) | [Próxima Página](https://github.com/Dasinhoo/guia-skyrim/blob/main/interface.md)
+[Página Anterior](bug_fixes.md) | [Próxima Página](interface.md)
