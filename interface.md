@@ -16,4 +16,4 @@ _Para melhorar os menus horrendos do jogo vanilla_
 
 ### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
 
-[Página Anterior](https://github.com/Dasinhoo/guia-skyrim/blob/main/qualidade_de_vida.md)
+[Página Anterior](qualidade_de_vida.md)
