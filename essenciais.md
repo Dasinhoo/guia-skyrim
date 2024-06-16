@@ -15,7 +15,7 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
     - `SleepWaitTimeModifier = 0.3` ➞ `SleepWaitTimeModifier = 0.25`
     
 ### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
-   - Solução AIO para experiência fluída com FPS destravado, inclui fixes para a física, bugs e muito mais
+   - Solução para experiência fluída com FPS destravado, inclui fixes para a física, bugs e muito mais
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
    - Navegue para: `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
 
