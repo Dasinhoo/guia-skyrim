@@ -27,7 +27,7 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
    - Abra o jogo uma vez após instalá-lo, espere o menu aparecer e feche-o.
    - Abra a pasta `overwrite` no MO2.
    - Navegue para: `SKSE/Plugins/PapyrusTweaks.ini` e edite:
-     - `Max Operations Per Task = 500` ➞ `Max Operations Per Task = 2000`
+     - `iMaxOpsPerFrame = 500` ➞ `iMaxOpsPerFrame = 2000`
 ### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
   - Baixe o arquivo principal correspondente a versão do seu jogo.
   - Baixe também o `Script Effect Archetype Crash Fix` e o `Vendor Respawn Fix`.
