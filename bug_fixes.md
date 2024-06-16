@@ -80,13 +80,13 @@ _Provavelmente a seção mais longa do guia_
 ### [Skyrim Landscape and Water Fixes (SLAWF)](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
 - Ele arruma gliches na landscape, remove muitos objetos duplicados(aumentando o FPS, consequentemente).
 - Recomendo instalar o Landscape Fixes for Grass Mods **ANTES**.
-- Selecione os patchs pros mods que você tem no FOMOD  dele e caso use o Creation Club, selecione tudo onde tem escrito "CC".
+- Selecione os patches pros mods que você tem no FOMOD  dele e caso use o Creation Club, selecione tudo onde tem escrito "CC".
 ### [Stagger Effect Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110508)
 - Corrige um erro de Engine relacionado ao mecanismo de efeitos mágicos, se estes desencadearem um efeito de cambaleio no alvo, o alvo cambaleia na direção errada em relação a quem conjurou o feitiço.
 ### [Staves On Self Fix](https://www.nexusmods.com/skyrimspecialedition/mods/89075)
-- Corrige animações quando o player está parado e equipado com um cajado que tem ele mesmo como alvo do efeito do cajado.
+- Corrige animações quando o jogador está parado e segurando com um cajado que tem ele mesmo como alvo do efeito do cajado.
 ### [Stuck on Screen Load Door Prompt Fix](https://www.nexusmods.com/skyrimspecialedition/mods/96531)
-- Corrige um bug que o jogo simplesmente coloca a mensagem do lugar onde você vai entrar/sair em stuck(preso) na tela.
+- Corrige um bug no qual o nome do lugar do qual você saiu/entrou fica preso no canto da tela.
 ### [World Encounter Hostility Fix](https://www.nexusmods.com/skyrimspecialedition/mods/91403)
 - Previne que NPCs se tornem hostis quando você solta feitiços não-hostis.
 ### [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413)
