@@ -20,5 +20,6 @@ _Para deixar a gameplay um pouco menos detestável_
 - Coleta todos os itens similares deixados no chão de uma só vez.
 ### [Instantly Skip Dialogue NG](https://www.nexusmods.com/skyrimspecialedition/mods/89163)
 - Permite o player pular o diálogo instantaneamente, ignorando o delay de 750 milissegundos, também inclui diálogos que não podem ser pulados normalmente, como os de Hermaeus Mora e Augur De Dunlain.
-
+### [PlayerPayCrimeGold Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/76493)
+- Por padrão, faz com que você não seja teleportado para a prisão caso pague a multa.
 [Página Anterior](bug_fixes.md) | [Próxima Página](interface.md)
