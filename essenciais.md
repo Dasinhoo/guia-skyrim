@@ -6,16 +6,16 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
 ### [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
 ### [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
 ### [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
-  - Instale a parte 1 correspondente a sua versão usando o `MO2`
-  - Baixe a parte 2 manualmente, extraia e mova os arquivos para dentro da pasta root do jogo(onde SkyrimSE.exe está) 
+  - Instale a parte 1 correspondente a sua versão usando o `MO2`;
+  - Baixe a parte 2 manualmente, extraia e mova os arquivos para dentro da pasta root do jogo (onde SkyrimSE.exe está) ;
   - Abra a pasta da parte 1 e navegue para: `SKSE/Plugins` e abra o arquivo `EngineFixes.toml` com um leitor de texto e edite as seguintes linhas:
-    - `MaxStdio=2048` ➞ `MaxStdio=4096`
+    - `MaxStdio=2048` ➞ `MaxStdio=8192`
     - `RegularQuicksaves=false` ➞ `RegularQuicksaves=true`
     - `SleepWaitTime = false` ➞ `SleepWaitTime = true`
     - `SleepWaitTimeModifier = 0.3` ➞ `SleepWaitTimeModifier = 0.25`
     
 ### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
-   - Solução para experiência fluída com FPS destravado, inclui fixes para a física, bugs e muito mais
+   - Solução para experiência fluída com FPS destravado, inclui fixes para a física, bugs e muito mais.
    - Clique com o botão direito no mod no painel esquerdo do MO2 e selecione `abrir no explorador`
    - Navegue para: `SKSE/Plugins/SSEDisplayTweaks.ini` e edite as seguintes linhas:
 
