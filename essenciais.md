@@ -27,12 +27,18 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
      - `LoadScreenFilter=false` ➞ `LoadScreenFilter=true` 
      - `LoadScreenBlock=All` ➞ `LoadScreenBlock=DynDOLOD.esm`
 ### [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+  - Abra o jogo uma vez após instalá-lo, espere o menu aparecer e feche-o.
+  - Abra a pasta `overwrite` no MO2.
+  - Navegue para: `SKSE/Plugins/po3_Tweaks.ini` e edite:
+    - Dynamic Snow Material: `false` ➞ `true`
+    - Fast RandomInt(): `false` ➞ `true`
+    - Fast RandomFloat(): `false` ➞ `true`
+    - Clean Orphaned ActiveEffects: `false` ➞ `true`
 ### [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
-    
-   - Abra o jogo uma vez após instalá-lo, espere o menu aparecer e feche-o.
-   - Abra a pasta `overwrite` no MO2.
-   - Navegue para: `SKSE/Plugins/PapyrusTweaks.ini` e edite:
-     - `iMaxOpsPerFrame = 500` ➞ `iMaxOpsPerFrame = 2000`
+  - Abra o jogo uma vez após instalá-lo, espere o menu aparecer e feche-o.
+  - Abra a pasta `overwrite` no MO2.
+  - Navegue para: `SKSE/Plugins/PapyrusTweaks.ini` e edite:
+    - iMaxOpsPerFrame: `500` ➞ `2000`
 ### [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
   - Baixe o arquivo principal correspondente a versão do seu jogo.
   - Baixe também o `Script Effect Archetype Crash Fix` e o `Vendor Respawn Fix`.
