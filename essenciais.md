@@ -3,8 +3,13 @@
 _Para que o jogo abra corretamente e tenha um bom funcionamento_
 
 ### [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
+  - Extraia do arquivo `.exe` e quaisquer arquivos `.dll` presentes no arquivo para a pasta do jogo (onde se encontra o execurtável `SkyrimSE.exe`)
+  - Instale o arquivo pelo Mod Organizer e defina a pasta `Data` como diretório de data, de forma que na estrutura do mod reste somente os scripts.
 ### [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+  - Possui arquivos de base de dados que referenciam endereços de memória do jogo, permitindo que um plugin do SKSE funcione em mais de uma versão sem precisar ser recompilado.
 ### [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
+  - Faz com que mods feitos com o header 1.71 - introduzido na versão 1.6.1130 - funcionem em versões 1.6.640 e abaixo.
+  - Logicamente, se você usa ou a 1.6.1130 ou qualquer versão acima dela, você ***não*** precisa desse mod.
 ### [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - Instale a parte 1 correspondente a sua versão usando o `MO2`;
   - Baixe a parte 2 manualmente, extraia e mova os arquivos para dentro da pasta root do jogo (onde SkyrimSE.exe está) ;
@@ -32,7 +37,20 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
   - Baixe o arquivo principal correspondente a versão do seu jogo.
   - Baixe também o `Script Effect Archetype Crash Fix` e o `Vendor Respawn Fix`.
 ### [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
-  - Uma coleção de bugfixes para a engine.
-
+  - Uma coleção de bug fixes para a engine.
+### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+  - O principal mod para arrumar bugs do jogo.
+  - O Arquivo Principal mais recente funcionará em todas as versões, por mais que o LOOT avise que só é compatível com a versão mais recente do jogo.
+### [Unofficial Skyrim Creation Club Content Patches (USCCCP)](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+  - Corrige bugs do conteúdo do Creation Club
+  - Corrige conflitos do Creation Club com o USSEP (Unofficial Skyrim Special Edition Patch)
+### [Sunder and Wraithguard - Editable Vault Cell](https://www.nexusmods.com/skyrimspecialedition/mods/59083)
+  - Corrige um bug com arquivos marcados como ESL, no qual células criadas nele não conseguem ser editadas.
+### [Myrwatch - Editable Home Cells](https://www.nexusmods.com/skyrimspecialedition/mods/64108)
+  - É o mesmo caso do Sunder and Wraithguard.
+### [Ultimate Optimized Scripts Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/122999)
+  - Otimiza scripts do jogo base para que sejam mais eficientes.
+### [Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)](https://www.nexusmods.com/skyrimspecialedition/mods/97155)
+  - Mais otimizações de scripts. Carregue ***sempre*** depois do mod acima.
 
 [Página Anterior](downgrade.md) | [Próxima Página](frameworks.md)
