@@ -1,19 +1,6 @@
 ## Bug Fixes
 _Provavelmente a seção mais longa do guia_
 
-### [Unofficial Skyrim Special Edition Patch (USSEP)](https://www.nexusmods.com/skyrimspecialedition/mods/266)
-- O principal Bug Fix do Skyrim SE/AE
-- O Main File mais recente funcionará em todas as versões.
-- **Caso** esteja em uma versão abaixo da 1.6.1130, use o [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441) **OBRIGATORIAMENTE**
-### [Unofficial Skyrim Creation Club Content Patches (USCCCP)](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
-- Corrige bugs do conteúdo do Creation Club
-- Corrige conflitos do Creation Club com o USSEP (Unofficial Skyrim Special Edition Patch)
-- **NECESSÁRIO O CONTEÚDO DO CREATION CLUB!** 
-### [Sunder and Wraithguard - Editable Vault Cell](https://www.nexusmods.com/skyrimspecialedition/mods/59083)
-- O conteúdo do Sunder and Wraithguard é por padrão, ESM Flaggado como um ESL, o que esse mod vai fazer, é criar uma cópia da cell e permitir outros mods editarem esse conteúdo.
-- **LOGICAMENTE**, é necessário o conteúdo Sunder and Wraithguard do Creation Club.
-### [Myrwatch - Editable Home Cells](https://www.nexusmods.com/skyrimspecialedition/mods/64108)
-- É o mesmo caso do Sunder and Wraithguard.
 ### [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
 - Ele permite um maior número de atores(em resumo, NPCs) poder se mover e fazer expressões faciais a qualquer momento.
 ### [Allow Dialogue Progress Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67433)
@@ -59,8 +46,6 @@ _Provavelmente a seção mais longa do guia_
 ### [Landscape Fix For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 - Imagino que você tenha o instalado, mas resumindo, ele vai tirar gramas de lugar que embora tenham, não deveriam tê-lá para melhor funcionamento com mods de grama
 - Leia **ATENTAMENTE** a descrição caso esteja usando um mod de grama.
-### [Mage Armor Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58862)
-- Corrige crashs e lags de script ao usar a Mage Armor.
 ### [Magic Student (WIChangeLocation04) Quest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/80676)
 - Corrige o objetivo da quest jamais sumindo do seu menu de missões.
 ### [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669) + [MfgFix NG](https://www.nexusmods.com/skyrimspecialedition/mods/114095)
@@ -89,8 +74,6 @@ _Provavelmente a seção mais longa do guia_
 - Corrige um bug no qual o nome do lugar do qual você saiu/entrou fica preso no canto da tela.
 ### [World Encounter Hostility Fix](https://www.nexusmods.com/skyrimspecialedition/mods/91403)
 - Previne que NPCs se tornem hostis quando você solta feitiços não-hostis.
-### [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413)
-- Corrige um crash relacionado ao WIDeadBodyCleanupScript quando tenta salvar o jogo.
 ### [Zero Bounty Hostility Fix](https://www.nexusmods.com/skyrimspecialedition/mods/95989)
 - Tira a hostilidade que os guardas tem com você mesmo depois de você pagar uma recompensa ou matar todas as testemunhas. 
 
