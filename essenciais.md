@@ -16,7 +16,7 @@ _Para que o jogo abra corretamente e tenha um bom funcionamento_
   - Logicamente, se você usa ou a 1.6.1130 ou qualquer versão acima dela, você ***não*** precisa desse mod.
 ### [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
   - Instale a parte 1 correspondente a sua versão usando o `MO2`:
-    - Para o Skyrim 1.6.1170: segundo Main File `(Part 1) SSE Engine Fixes for 1.6.1170 and newer`
+    - Para o Skyrim 1.6.1170: `(Part 1) SSE Engine Fixes for 1.6.1170 and newer`
     - Para o Skyrim 1.5.97: `(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97`
   - Baixe a parte 2 manualmente, extraia e mova os arquivos para dentro da pasta root do jogo (onde SkyrimSE.exe está) ;
   - Abra a pasta da parte 1 e navegue para: `SKSE/Plugins` e abra o arquivo `EngineFixes.toml` com um leitor de texto e edite as seguintes linhas:
