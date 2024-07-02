@@ -15,13 +15,16 @@ _Para melhorar os menus horrendos do jogo vanilla_
 - Para 1.6.1170, é o arquivo no Main Files.
 - Para 1.5.97, use a versão 0.4.16
   - Instale também o [Memory Leak Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70161)
+  - Instale também o [Race Menu Player Rotation](https://www.nexusmods.com/skyrimspecialedition/mods/91146)
 
 ### [No Stamina Consumption Outside Combat](https://www.nexusmods.com/skyrimspecialedition/mods/77026)
-
-### [Race Menu Player Rotation](https://www.nexusmods.com/skyrimspecialedition/mods/91146)
 
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775)
 
 ### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+
+### [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463)
+
+### [QuickLootIE](https://www.nexusmods.com/skyrimspecialedition/mods/120075)
 
 [Página Anterior](qualidade_de_vida.md)
