@@ -2,7 +2,7 @@
 _Downgrade da versão ***1.6.1170*** para ***1.5.97***, mantendo todo o conteúdo do Creation Club da 1.6.1170 e todo o suporte para mods da 1.5.97_
 
 - Se você possuir a DLC Anniversary Edition do Skyrim, certifique-se que ***todo*** o conteúdo do Creation Club já esteja instalado no seu jogo.
-- Pressione Windows + R e digite "steam://open/console" (sem as aspas) - isso abrirá o console do Steam.
+- Pressione `Windows + R` e digite `steam://open/console` - isso abrirá o console do Steam.
 - Digite os comandos a seguir ***um por um***; não digite todos juntos e espere que a mensagem `Depot download complete` apareça antes de digitar o próximo.
   
   ```
