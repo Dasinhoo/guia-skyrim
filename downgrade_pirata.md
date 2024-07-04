@@ -1,4 +1,4 @@
-## Pra quem tem jogo pirata(1.5.97)
+## Pra quem tem jogo pirata 1.5.97
 _Baixe [esse](https://drive.google.com/file/d/1mE67yRC5f4oeqEqsiOeUjuzBYFtr2hSV/view) arquivo e extraia para a pasta **data** do jogo!_
 
 _Baixe os seguintes arquivos:_
