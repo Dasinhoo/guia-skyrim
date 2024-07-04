@@ -17,5 +17,4 @@ _Downgrade da versão ***1.6.1170*** para ***1.5.97***, mantendo todo o conteúd
 Nota importante: caso tente abrir seu jogo agora, ele crashará. Você precisa do [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441).
 - Se você estiver seguindo o guia (no caso, não lhe foi mandada esta página de maneira avulsa), a instalação do BEES ocorrerá mais a frente.
 
-
 [Próxima Página](essenciais.md)
