@@ -10,8 +10,8 @@ _Baixe os seguintes arquivos:_
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/1nwbdhzx2s80ea9/Update.esm/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/4hxyg3czke4zhzu/_ResourcePack.bsa/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/zp7gcpamxn93pbg/_ResourcePack.esl/file)
+- [Baixe manualmente e jogue na pasta data do jogo](https://www.nexusmods.com/skyrimspecialedition/mods/104265)
 - [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
-- [Skyrim Patch BSA Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/104265)
 
 ## Pra quem tem jogo pirata 1.6.1170
 _Desinstale essa porcaria e baixe o da fitgirl ou qualquer outro que esteja na versão 1.5.97 e faça os passos que falei acima_
