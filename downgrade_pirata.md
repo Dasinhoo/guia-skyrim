@@ -2,9 +2,9 @@
 _Baixe [esse](https://drive.google.com/file/d/1mE67yRC5f4oeqEqsiOeUjuzBYFtr2hSV/view) arquivo e extraia para a pasta **data** do jogo!_
 
 _Baixe os seguintes arquivos:_
-- [Jogue ele na pasta raíz do jogo](https://cdn.discordapp.com/attachments/1259538817669402624/1259679675123241021/Skyrim.ccc?ex=668c8f9e&is=668b3e1e&hm=384cb6d3e7d8f2493d4faae415e88762678dd6a94d14a1668039b28a2a89611b&)
-- [Jogue ele na pasta data do jogo](https://cdn.discordapp.com/attachments/1259538817669402624/1259679769478430833/MarketplaceTextures.bsa?ex=668c8fb4&is=668b3e34&hm=0c0073ea3b02d57e1f094d8e395e81e753ffe1739f162003818826ebd776f7fa&)
-- [Jogue ele na pasta data do jogo](https://cdn.discordapp.com/attachments/1259538817669402624/1259679892279136286/HearthFires.esm?ex=668c8fd2&is=668b3e52&hm=ea7db1d935ae70023a26e7623707be06a6466e7077f649794415bf37ec19adc5&)
+- [Jogue ele na pasta raíz do jogo](https://drive.google.com/file/d/1cg3e-t3tX6pP8CNlvYNbA3X8oXKoO_XP/view?usp=drive_link)
+- [Jogue ele na pasta data do jogo](https://drive.google.com/file/d/1qJia4mRz__GtUKZzlcsTdmSFW4Svtuya/view?usp=drive_link)
+- [Jogue ele na pasta data do jogo](https://drive.google.com/file/d/1YoYmSabpJbghsVY2ygHuYrAg0xI721_w/view?usp=drive_link)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/bf6u1ucuyy6n5z2/Dawnguard.esm/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/eqodptmhrm5uv7q/Dragonborn.esm/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/1nwbdhzx2s80ea9/Update.esm/file)
