@@ -2,9 +2,9 @@
 _Baixe [esse](https://drive.google.com/file/d/1mE67yRC5f4oeqEqsiOeUjuzBYFtr2hSV/view) arquivo e extraia para a pasta **data** do jogo!_
 
 _Baixe os seguintes arquivos:_
-- [Jogue ele na pasta raíz do jogo](https://drive.google.com/file/d/1cg3e-t3tX6pP8CNlvYNbA3X8oXKoO_XP/view?usp=drive_link)
+- [Jogue ele na pasta data do jogo](https://drive.google.com/file/d/1cg3e-t3tX6pP8CNlvYNbA3X8oXKoO_XP/view?usp=drive_link)
 - [Jogue ele na pasta data do jogo](https://drive.google.com/file/d/1qJia4mRz__GtUKZzlcsTdmSFW4Svtuya/view?usp=drive_link)
-- [Jogue ele na pasta data do jogo](https://drive.google.com/file/d/1YoYmSabpJbghsVY2ygHuYrAg0xI721_w/view?usp=drive_link)
+- [Jogue ele na pasta raíz do jogo](https://drive.google.com/file/d/1YoYmSabpJbghsVY2ygHuYrAg0xI721_w/view?usp=drive_link)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/bf6u1ucuyy6n5z2/Dawnguard.esm/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/eqodptmhrm5uv7q/Dragonborn.esm/file)
 - [Jogue ele na pasta data do jogo](https://www.mediafire.com/file/1nwbdhzx2s80ea9/Update.esm/file)
