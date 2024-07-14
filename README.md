@@ -2,13 +2,6 @@
 
 ### [Aqui](downgrade.md).
 
-## Notas
-
-- Este guia foca ***principalmente*** nas versões 1.5.97 e 1.6.1170, embora a maior parte também seja aplicável nas outras versões.
-- Por ser um guia no GitHub, ela pode ser considerada algo bleeding edge, ou seja, ela estará em constante desenvolvimento
-- Ela também assume que você tenha um conhecimento básico sobre o procedimento de instalação dos mods no ***Mod Organizer 2***.
-  - Caso você não possua esse conhecimento, recomendo adquiri-lo antes de começar a guia (o canal do Xarope é um ótimo lugar para começar).
-
 ## Índice - Base
 #### 1. [Downgrade](downgrade.md)
 - Passo a passo para fazer o downgrade do Skyrim ***1.6.1170*** para a versão ***1.5.97***, mantendo o conteúdo do Creation Club (vulgo Anniversary Edition) e o suporte com a versão mais recente (principalmente) do USSEP.
